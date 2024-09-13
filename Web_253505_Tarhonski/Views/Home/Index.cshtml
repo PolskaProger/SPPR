@@ -1,0 +1,80 @@
+﻿@{
+    ViewBag.Title = ViewData["Title"];
+}
+    <h1>@ViewBag.Title</h1>
+    <!-- Список -->
+    <h4>Список</h4>
+    <ol type="A">
+
+        <h3>@DateTime.Now</h3>
+        <h3>@(DateTime.Now+TimeSpan.FromDays(1))
+        </h3>
+
+        @for (int i = 1; i <= 3; i++)
+        {   
+            <li>Элемент @i списка</li>
+        }
+    </ol>
+
+    <!-- Форма -->
+    <h4>Форма</h4>
+    <form method="post" action="">
+        <!-- Элемент select -->
+        <div class="col-12">
+            <div class="row mb-3">
+                <label for="selectItem" class="col-sm-2 col-form-label">Выберите элемент:</label>
+                <div class="col-sm-10">
+                    <select class="form-select" id="selectItem" name="selectedItem" asp-items="ViewBag.ListItems">
+                        <option value="">-- Выберите элемент --</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="checkbox1" name="checkbox1">
+                <label class="form-check-label" for="checkbox1">Чек-бокс 1</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="checkbox2" name="checkbox2">
+                <label class="form-check-label" for="checkbox2">Чек-бокс 2</label>
+            </div>
+        </div>
+
+        <div class="col-12">
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="radio" id="radio1" value="1">
+                <label class="form-check-label" for="radio1">Радио-1</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="radio" id="radio2" value="2">
+                <label class="form-check-label" for="radio2">Радио-2</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="radio" id="radio3" value="3">
+                <label class="form-check-label" for="radio3">Радио-3</label>
+            </div>
+        </div>
+
+
+        <div class="col-12">
+            <div class="row mb-3">
+                <label for="login" class="col-sm-2 col-form-label">Логин:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="login" name="login" placeholder="Введите имя">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="row mb-3">
+                <label for="password" class="col-sm-2 col-form-label">Пароль:</label>
+                <div class="col-sm-10">
+                    <input type="password" class="form-control" id="password" name="password" placeholder="Введите пароль">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Отправить</button>
+        </div>
+    </form>
+    </div>

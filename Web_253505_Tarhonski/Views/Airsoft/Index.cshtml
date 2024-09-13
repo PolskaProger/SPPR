@@ -1,0 +1,91 @@
+﻿@model ListModel<Web_253505_Tarhonski.Domain.Entities.Airsoft>
+@using Web_253505_Tarhonski.Domain.Models
+
+@{
+    ViewData["Title"] = "Airsoft Catalog";
+    var categories = ViewData["Categories"] as IEnumerable<Web_253505_Tarhonski.Domain.Entities.Category>;
+    var currentCategory = ViewData["CurrentCategory"] as string;
+
+    // Получаем имя категории из запроса
+    string? category = ViewContext.HttpContext.Request.RouteValues["category"]?.ToString() ?? "";
+
+    // Определяем предыдущую и следующую страницы с проверкой на границы
+    int prev = Model.CurrentPage == 1 ? 1 : Model.CurrentPage - 1;
+    int next = Model.CurrentPage == Model.TotalPages ? Model.TotalPages : Model.CurrentPage + 1;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<!-- Выбор категории -->
+<div class="col-2 border-2 mb-4">
+    <ul class="nav">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                @currentCategory
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a class="dropdown-item" asp-controller="Airsoft" asp-action="Index" asp-route-category="@null">Все</a>
+                </li>
+                @foreach (var categoryItem in categories)
+                {
+                    <li>
+                        <a class="dropdown-item" asp-controller="Airsoft" asp-action="Index" asp-route-category="@categoryItem.NormalizedName">
+                            @categoryItem.Name
+                        </a>
+                    </li>
+                }
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<!-- Список товаров -->
+<div class="row">
+    @foreach (var item in Model.Items)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="@Url.Content(item.ImagePath)" class="card-img-top" alt="@item.Name" style="height: 200px; object-fit: cover;" />
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Description</p>
+                    <p class="card-text"><strong>Price:</strong> $@item.Price</p>
+                    <a href="@Url.Action("Add", "Cart", new { id = item.ID, returnUrl = ViewContext.HttpContext.Request.Path + ViewContext.HttpContext.Request.QueryString.ToUriComponent() })" class="btn btn-primary">
+                        Add to cart
+                        <i class="fas fa-shopping-cart"></i>
+                    </a>
+                </div>
+            </div>      
+        </div>
+    }
+
+    <!-- Пагинация -->
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <!-- Кнопка для предыдущей страницы -->
+            <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
+                <a class="page-link" asp-controller="Airsoft" asp-action="Index"
+                   asp-route-pageNo="@prev"
+                   asp-route-category="@category">Предыдущая</a>
+            </li>
+
+            <!-- Номера страниц -->
+            @for (var i = 1; i <= Model.TotalPages; i++)
+            {
+                <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                    <a class="page-link" asp-controller="Airsoft"
+                       asp-action="Index"
+                       asp-route-pageNo="@i"
+                       asp-route-category="@category">@i</a>
+                </li>
+            }
+
+            <!-- Кнопка для следующей страницы -->
+            <li class="page-item @(Model.CurrentPage == Model.TotalPages ? "disabled" : "")">
+                <a class="page-link" asp-controller="Airsoft" asp-action="Index"
+                   asp-route-pageNo="@next"
+                   asp-route-category="@category">Следующая</a>
+            </li>
+        </ul>
+    </nav>

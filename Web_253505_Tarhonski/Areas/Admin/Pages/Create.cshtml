@@ -1,0 +1,55 @@
+﻿@page
+@using Web_253505_Tarhonski.Areas.Admin.Pages
+@model CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Airsoft</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Airsoft.Name" class="control-label"></label>
+                <input asp-for="Airsoft.Name" class="form-control" />
+                <span asp-validation-for="Airsoft.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Airsoft.Description" class="control-label"></label>
+                <input asp-for="Airsoft.Description" class="form-control" />
+                <span asp-validation-for="Airsoft.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Airsoft.Price" class="control-label"></label>
+                <input asp-for="Airsoft.Price" class="form-control" />
+                <span asp-validation-for="Airsoft.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Airsoft.ImagePath" class="control-label"></label>
+                <input asp-for="Airsoft.ImagePath" class="form-control" />
+                <span asp-validation-for="Airsoft.ImagePath" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Airsoft.MimeType" class="control-label"></label>
+                <input asp-for="Airsoft.MimeType" class="form-control" />
+                <span asp-validation-for="Airsoft.MimeType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

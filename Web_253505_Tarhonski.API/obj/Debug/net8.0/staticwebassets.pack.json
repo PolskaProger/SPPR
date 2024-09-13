@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\AK-47.jpg",
+      "PackagePath": "staticwebassets\\Images\\AK-47.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\G36.jpg",
+      "PackagePath": "staticwebassets\\Images\\G36.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Glock-18C.jpg",
+      "PackagePath": "staticwebassets\\Images\\Glock-18C.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\M4A1.jpg",
+      "PackagePath": "staticwebassets\\Images\\M4A1.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\VSS.jpg",
+      "PackagePath": "staticwebassets\\Images\\VSS.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\m60.jpg",
+      "PackagePath": "staticwebassets\\Images\\m60.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\m870.jpg",
+      "PackagePath": "staticwebassets\\Images\\m870.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_253505_Tarhonski.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_253505_Tarhonski.API.props",
+      "PackagePath": "build\\Web_253505_Tarhonski.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_253505_Tarhonski.API.props",
+      "PackagePath": "buildMultiTargeting\\Web_253505_Tarhonski.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_253505_Tarhonski.API.props",
+      "PackagePath": "buildTransitive\\Web_253505_Tarhonski.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
