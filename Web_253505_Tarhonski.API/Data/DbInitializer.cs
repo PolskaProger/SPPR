@@ -49,7 +49,6 @@ namespace Web_253505_Tarhonski.API.Data
                         Description = "Классический автомат для страйкбола",
                         Price = 150.00m,
                         ImagePath = $"{appUrl}/Images/AK-47.jpg",
-                        MimeType = "image/jpeg",
                         Category = riflesCategory
                     },
                     new Airsoft
@@ -58,7 +57,6 @@ namespace Web_253505_Tarhonski.API.Data
                         Description = "Штурмовая винтовка с малым весом",
                         Price = 200.00m,
                         ImagePath = $"{appUrl}/Images/M4A1.jpg",
-                        MimeType = "image/jpeg",
                         Category = riflesCategory
                     },
                     new Airsoft
@@ -67,7 +65,6 @@ namespace Web_253505_Tarhonski.API.Data
                         Description = "Пистолет с автоматическим режимом",
                         Price = 100.00m,
                         ImagePath = $"{appUrl}/Images/Glock-18C.jpg",
-                        MimeType = "image/jpeg",
                         Category = pistolsCategory
                     },
                     new Airsoft
@@ -76,7 +73,6 @@ namespace Web_253505_Tarhonski.API.Data
                         Description = "Тяжёлый пулемёт с великолепной скорострельностью",
                         Price = 300.00m,
                         ImagePath = $"{appUrl}/Images/m60.jpg",
-                        MimeType = "image/jpeg",
                         Category = machinegunsCategory
                     },
                     new Airsoft
@@ -85,7 +81,6 @@ namespace Web_253505_Tarhonski.API.Data
                         Description = "Идеален для CQB",
                         Price = 75.00m,
                         ImagePath = $"{appUrl}/Images/m870.jpg",
-                        MimeType = "image/jpeg",
                         Category = shotgunsCategory
                     },
                      new Airsoft
@@ -94,7 +89,6 @@ namespace Web_253505_Tarhonski.API.Data
                         Description = "Немецкая классика в твоих руках",
                         Price = 125.00m,
                         ImagePath = $"{appUrl}/Images/G36.jpg",
-                        MimeType = "image/jpeg",
                         Category = riflesCategory
                     },
                       new Airsoft
@@ -103,7 +97,6 @@ namespace Web_253505_Tarhonski.API.Data
                         Description = "Тихая и дальнобойная винтовка",
                         Price = 500.00m,
                         ImagePath = $"{appUrl}/Images/VSS.jpg",
-                        MimeType = "image/jpeg",
                         Category = riflesCategory
                     }
                 };

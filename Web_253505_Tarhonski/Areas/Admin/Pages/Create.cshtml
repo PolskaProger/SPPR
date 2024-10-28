@@ -12,33 +12,38 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form method="post">
+        <form method="post" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
             <div class="form-group">
                 <label asp-for="Airsoft.Name" class="control-label"></label>
                 <input asp-for="Airsoft.Name" class="form-control" />
                 <span asp-validation-for="Airsoft.Name" class="text-danger"></span>
             </div>
+
             <div class="form-group">
                 <label asp-for="Airsoft.Description" class="control-label"></label>
                 <input asp-for="Airsoft.Description" class="form-control" />
                 <span asp-validation-for="Airsoft.Description" class="text-danger"></span>
             </div>
+
             <div class="form-group">
                 <label asp-for="Airsoft.Price" class="control-label"></label>
                 <input asp-for="Airsoft.Price" class="form-control" />
                 <span asp-validation-for="Airsoft.Price" class="text-danger"></span>
             </div>
+
+            <!-- Выпадающий список для выбора категории -->
             <div class="form-group">
-                <label asp-for="Airsoft.ImagePath" class="control-label"></label>
-                <input asp-for="Airsoft.ImagePath" class="form-control" />
-                <span asp-validation-for="Airsoft.ImagePath" class="text-danger"></span>
+                <label for="Airsoft.CategoryId">Category</label>
+                <select asp-for="SelectedCategoryId" class="form-control" asp-items="@(new SelectList(Model.Categories, "ID", "Name"))"></select>
             </div>
+
             <div class="form-group">
-                <label asp-for="Airsoft.MimeType" class="control-label"></label>
-                <input asp-for="Airsoft.MimeType" class="form-control" />
-                <span asp-validation-for="Airsoft.MimeType" class="text-danger"></span>
+                <label>Upload Image</label>
+                <input type="file" name="ImageFile" class="form-control" />
             </div>
+
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
@@ -51,5 +56,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

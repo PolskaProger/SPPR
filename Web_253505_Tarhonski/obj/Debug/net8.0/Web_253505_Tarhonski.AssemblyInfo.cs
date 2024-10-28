@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_253505_Tarhonski")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6396832465f27db935dd812dc9cd9c07e8f1b15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bbc5baf4e8bb1c25aa843c6e1aa91497839119f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_253505_Tarhonski")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_253505_Tarhonski")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -26,7 +26,8 @@
             /// </summary>
             /// <param name="id">Идентификатор объекта</param>
             /// <returns>Найденный объект или null, если объект не найден</returns>
-            Task<ResponseData<Airsoft>> GetAirsoftByIdAsync(int id);
+            Task<ResponseData<Airsoft>> GetAirsoftByIdAsync(Guid id);
+            Task<ResponseData<ListModel<Airsoft>>> GetAllAirsoftsAsync(string? categoryNormalizedName);
 
             /// <summary>
             /// Обновление объекта
@@ -35,14 +36,14 @@
             /// <param name="airsoft">Объект с новыми параметрами</param>
             /// <param name="formFile">Файл изображения</param>
             /// <returns></returns>
-            Task UpdateAirsoftAsync(int id, Airsoft airsoft, IFormFile? formFile);
+            Task UpdateAirsoftAsync(Guid id, Airsoft airsoft, IFormFile? formFile);
 
             /// <summary>
             /// Удаление объекта
             /// </summary>
             /// <param name="id">Id удаляемого объекта</param>
             /// <returns></returns>
-            Task DeleteAirsoftAsync(int id);
+            Task DeleteAirsoftAsync(Guid id);
 
             /// <summary>
             /// Создание объекта
@@ -55,3 +56,4 @@
     }
 
 }
+    

@@ -12,7 +12,8 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form method="post">
+        <!-- Важно добавить enctype="multipart/form-data" для поддержки загрузки файлов -->
+        <form method="post" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Airsoft.ID" />
             <div class="form-group">
@@ -30,15 +31,20 @@
                 <input asp-for="Airsoft.Price" class="form-control" />
                 <span asp-validation-for="Airsoft.Price" class="text-danger"></span>
             </div>
+            <!-- Выпадающий список для выбора категории -->
             <div class="form-group">
-                <label asp-for="Airsoft.ImagePath" class="control-label"></label>
-                <input asp-for="Airsoft.ImagePath" class="form-control" />
-                <span asp-validation-for="Airsoft.ImagePath" class="text-danger"></span>
+                <label asp-for="Airsoft.CategoryId">Category</label>
+                <select asp-for="SelectedCategoryId" class="form-control" asp-items="@(new SelectList(Model.Categories, "ID", "Name"))"></select>
             </div>
+            <!-- Поле для загрузки изображения -->
             <div class="form-group">
-                <label asp-for="Airsoft.MimeType" class="control-label"></label>
-                <input asp-for="Airsoft.MimeType" class="form-control" />
-                <span asp-validation-for="Airsoft.MimeType" class="text-danger"></span>
+                <!-- Скрытое поле для сохранения текущего пути к изображению -->
+                <input asp-for="Airsoft.ImagePath" type="hidden" />
+
+                <!-- Отображение текущего изображения -->
+                <img src="@Model.Airsoft.ImagePath" alt="Current Image" width="150" height="150"></img>
+                <label>Upload New Image</label>
+                <input type="file" name="ImageFile" class="form-control" />
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
@@ -52,5 +58,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

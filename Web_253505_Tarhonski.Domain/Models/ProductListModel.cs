@@ -12,7 +12,7 @@ namespace Web_253505_Tarhonski.Domain.Models
         public int TotalCount { get; set; }
         public int CurrentPage { get; set; }
         public int PageSize { get; set; }
-        public int TotalPages => (int)Math.Ceiling((double)TotalCount / PageSize);
+        public int TotalPages{ get; set; }
     }
 
 

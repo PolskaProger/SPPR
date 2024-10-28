@@ -8,6 +8,7 @@ namespace Web_253505_Tarhonski.API.Services
     public class AirsoftService : IAirsoftService
     {
         private readonly AppDbContext _context;
+        private readonly int _maxPageSize = 20;
 
         public AirsoftService(AppDbContext context)
         {
@@ -16,94 +17,98 @@ namespace Web_253505_Tarhonski.API.Services
 
         public async Task<ResponseData<ListModel<Airsoft>>> GetAirsoftListAsync(string? categoryNormalizedName, int pageNo = 1, int pageSize = 6)
         {
+            if (pageSize > _maxPageSize)
+                pageSize = _maxPageSize;
+
             var query = _context.Airsofts.AsQueryable();
+            var dataList = new ListModel<Airsoft>();
 
-            if (!string.IsNullOrEmpty(categoryNormalizedName) && categoryNormalizedName != "Все")
+            query = query.Where(a => categoryNormalizedName == null || a.Category!.NormalizedName.Equals(categoryNormalizedName));
+
+            // Общее количество элементов
+            var count = await query.CountAsync();
+            if (count == 0)
             {
-                query = query.Where(a => a.Category.NormalizedName == categoryNormalizedName);
+                return ResponseData<ListModel<Airsoft>>.Success(dataList);
             }
 
-            var totalItems = await query.CountAsync();
-            var items = await query.Skip((pageNo - 1) * pageSize).Take(pageSize).ToListAsync();
-
-            return new ResponseData<ListModel<Airsoft>>
+            // Общее количество страниц
+            int totalPages = (int)Math.Ceiling(count / (double)pageSize);
+            if (pageNo > totalPages)
             {
-                Data = new ListModel<Airsoft>
-                {
-                    Items = items,
-                    TotalCount = totalItems,
-                    CurrentPage = pageNo,
-                    PageSize = pageSize
-                },
-                Successfull = true
-            };
-        }
-
-        public async Task<ResponseData<Airsoft>> GetAirsoftByIdAsync(int id)
-        {
-            var airsoft = await _context.Airsofts.FindAsync(id);
-            if (airsoft == null)
-            {
-                return new ResponseData<Airsoft> { Successfull = false };
+                return ResponseData<ListModel<Airsoft>>.Error("No such page");
             }
-            return new ResponseData<Airsoft> { Data = airsoft, Successfull = true };
+
+            // Получение элементов для текущей страницы
+            dataList.Items = await query.OrderBy(a => a.ID)
+                                        .Skip((pageNo - 1) * pageSize)
+                                        .Take(pageSize)
+                                        .ToListAsync();
+
+            // Установка текущей страницы и общего количества элементов
+            dataList.CurrentPage = pageNo;
+            dataList.TotalCount = count;  // Общее количество элементов, а не страниц
+            dataList.TotalPages = totalPages;  // Если в модели есть TotalPages
+
+            return ResponseData<ListModel<Airsoft>>.Success(dataList);
         }
 
-        public async Task UpdateAirsoftAsync(int id, Airsoft airsoft, IFormFile? formFile)
+        public async Task<ResponseData<Airsoft>> GetAirsoftByIdAsync(Guid id)
         {
-            var existingAirsoft = await _context.Airsofts.FindAsync(id);
-            if (existingAirsoft == null)
+            var airsoft = await _context.Airsofts.FirstOrDefaultAsync(a => a.ID == id);
+
+            if (airsoft is null)
+            {
+                return ResponseData<Airsoft>.Error($"No airsoft with id={id}");
+            }
+
+            return ResponseData<Airsoft>.Success(airsoft);
+        }
+
+        public async Task<ResponseData<Airsoft>> CreateAirsoftAsync(Airsoft airsoft)
+        {
+            await _context.Airsofts.AddAsync(airsoft);
+
+            await _context.SaveChangesAsync();
+
+            return ResponseData<Airsoft>.Success(airsoft);
+        }
+
+        public async Task DeleteAirsoftAsync(Guid id)
+        {
+            var airsoft = await _context.Airsofts.FirstOrDefaultAsync(a => a.ID == id);
+            if (airsoft is null)
             {
                 return;
             }
 
-            existingAirsoft.Name = airsoft.Name;
-            existingAirsoft.Description = airsoft.Description;
-            existingAirsoft.Price = airsoft.Price;
-
-            if (formFile != null)
-            {
-                var imageUrl = await SaveImageAsync(id, formFile);
-                existingAirsoft.ImagePath = imageUrl.Data;
-            }
-
-            _context.Airsofts.Update(existingAirsoft);
+            _context.Remove(airsoft);
             await _context.SaveChangesAsync();
         }
 
-        public async Task DeleteAirsoftAsync(int id)
+        public async Task UpdateAirsoftAsync(Guid id, Airsoft airsoft)
         {
-            var airsoft = await _context.Airsofts.FindAsync(id);
-            if (airsoft != null)
-            {
-                _context.Airsofts.Remove(airsoft);
-                await _context.SaveChangesAsync();
-            }
-        }
+            var dbAirsoft = await _context.Airsofts.FirstOrDefaultAsync(a => a.ID == id);
 
-        public async Task<ResponseData<Airsoft>> CreateAirsoftAsync(Airsoft airsoft, IFormFile? formFile)
-        {
-            if (formFile != null)
+            if (dbAirsoft is null)
             {
-                var imageUrl = await SaveImageAsync(airsoft.ID, formFile);
-                airsoft.ImagePath = imageUrl.Data;
+                return;
             }
 
-            _context.Airsofts.Add(airsoft);
+            dbAirsoft.Price = airsoft.Price;
+            dbAirsoft.Description = airsoft.Description;
+            dbAirsoft.Category = airsoft.Category;
+            dbAirsoft.Name = airsoft.Name;
+            dbAirsoft.Category = airsoft.Category;
+            dbAirsoft.ImagePath = airsoft.ImagePath;
+
+            _context.Entry(dbAirsoft).State = EntityState.Modified;
             await _context.SaveChangesAsync();
-
-            return new ResponseData<Airsoft> { Data = airsoft, Successfull = true };
         }
 
-        public async Task<ResponseData<string>> SaveImageAsync(int id, IFormFile formFile)
+        public Task<ResponseData<string>> SaveImageAsync(Guid id, IFormFile formFile)
         {
-            var filePath = Path.Combine("wwwroot", "Images", $"{id}_{formFile.FileName}");
-            using (var stream = new FileStream(filePath, FileMode.Create))
-            {
-                await formFile.CopyToAsync(stream);
-            }
-
-            return new ResponseData<string> { Data = filePath, Successfull = true };
+            throw new NotImplementedException();
         }
     }
 }

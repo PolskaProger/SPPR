@@ -8,7 +8,7 @@ namespace Web_253505_Tarhonski.Domain.Entities
 {
     public class Category
     {
-        public int ID { get; set; }
+        public Guid ID { get; set; }
         public string Name { get; set; }
         public string NormalizedName { get; set; }
         public List<Airsoft> AirsoftObjects { get; set; }

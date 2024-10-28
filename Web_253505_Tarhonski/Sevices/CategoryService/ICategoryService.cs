@@ -10,5 +10,6 @@ namespace Web_253505_Tarhonski.Sevices.CategoryService
         /// </summary>
         /// <returns>Список категорий</returns>
         Task<ResponseData<ListModel<Category>>> GetCategoryListAsync();
+        Task<ResponseData<Category>> GetCategoryByIdAsync(Guid? id);
     }
 }

@@ -18,7 +18,7 @@ namespace Web_253505_Tarhonski.Areas.Admin.Pages
         [BindProperty]
         public Web_253505_Tarhonski.Domain.Entities.Airsoft Airsoft { get; set; } = default!;
 
-        public async Task<IActionResult> OnGetAsync(int? id)
+        public async Task<IActionResult> OnGetAsync(Guid? id)
         {
             if (id == null)
             {
@@ -36,7 +36,7 @@ namespace Web_253505_Tarhonski.Areas.Admin.Pages
             return Page();
         }
 
-        public async Task<IActionResult> OnPostAsync(int? id)
+        public async Task<IActionResult> OnPostAsync(Guid? id)
         {
             if (id == null)
             {

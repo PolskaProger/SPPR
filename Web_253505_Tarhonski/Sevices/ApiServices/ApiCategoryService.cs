@@ -9,11 +9,16 @@ namespace Web_253505_Tarhonski.Sevices.ApiServices
     {
         private readonly HttpClient _httpClient;
         private readonly ILogger<ApiCategoryService> _logger;
+        private readonly JsonSerializerOptions _serializerOptions;
 
         public ApiCategoryService(HttpClient httpClient, ILogger<ApiCategoryService> logger)
         {
             _httpClient = httpClient;
             _logger = logger;
+            _serializerOptions = new JsonSerializerOptions
+            {
+                PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+            };
         }
 
         public async Task<ResponseData<ListModel<Category>>> GetCategoryListAsync()
@@ -36,6 +41,16 @@ namespace Web_253505_Tarhonski.Sevices.ApiServices
             _logger.LogError($"Ошибка получения данных: {response.StatusCode}");
             return ResponseData<ListModel<Category>>.Error($"Ошибка получения данных: {response.StatusCode}");
         }
-    }
+        public async Task<ResponseData<Category>> GetCategoryByIdAsync(Guid? id)
+        {
+            var response = await _httpClient.GetAsync($"{_httpClient.BaseAddress.AbsoluteUri}category/{id}");
+            if (response.IsSuccessStatusCode)
+            {
 
+                var result = await response.Content.ReadFromJsonAsync<ResponseData<Category>>(_serializerOptions);
+                return result!;
+            }
+            return ResponseData<Category>.Error("Ошибка при получении объекта.");
+        }
+    }
 }

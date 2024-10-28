@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -25,6 +26,7 @@ namespace Web_253505_Tarhonski.API.Controllers
 
         // GET: api/Airsofts
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<ResponseData<ListModel<Airsoft>>>> GetAirsofts([FromQuery] string? category, [FromQuery] int page = 1, [FromQuery] int pageSize = 6)
         {
             var result = await _airsoftService.GetAirsoftListAsync(category, page, pageSize);
@@ -33,7 +35,8 @@ namespace Web_253505_Tarhonski.API.Controllers
 
         // GET: api/Airsofts/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<ResponseData<Airsoft>>> GetAirsoft(int id)
+        [Authorize]
+        public async Task<ActionResult<ResponseData<Airsoft>>> GetAirsoft(Guid id)
         {
             var result = await _airsoftService.GetAirsoftByIdAsync(id);
             if (!result.Successfull)
@@ -45,23 +48,30 @@ namespace Web_253505_Tarhonski.API.Controllers
 
         // PUT: api/Airsofts/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutAirsoft(int id, Airsoft airsoft, IFormFile? formFile)
+        [Authorize(Policy = "admin")]
+        public async Task<IActionResult> PutAirsoft(Guid id, Airsoft airsoft)
         {
-            await _airsoftService.UpdateAirsoftAsync(id, airsoft, formFile);
+            await _airsoftService.UpdateAirsoftAsync(id, airsoft);
             return NoContent();
         }
 
         // POST: api/Airsofts
         [HttpPost]
-        public async Task<ActionResult<ResponseData<Airsoft>>> PostAirsoft(Airsoft airsoft, IFormFile? formFile)
+        [Authorize(Policy = "admin")]
+        public async Task<ActionResult<ResponseData<Airsoft>>> PostAirsoft(Airsoft airsoft)
         {
-            var result = await _airsoftService.CreateAirsoftAsync(airsoft, formFile);
-            return CreatedAtAction(nameof(GetAirsoft), new { id = result.Data.ID }, result);
+            var result = await _airsoftService.CreateAirsoftAsync(airsoft);
+            if (!result.Successfull)
+            {
+                return BadRequest(result.ErrorMessage);
+            }
+            return Ok(result);
         }
 
         // DELETE: api/Airsofts/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteAirsoft(int id)
+        [Authorize(Policy = "admin")]
+        public async Task<IActionResult> DeleteAirsoft(Guid id)
         {
             await _airsoftService.DeleteAirsoftAsync(id);
             return NoContent();

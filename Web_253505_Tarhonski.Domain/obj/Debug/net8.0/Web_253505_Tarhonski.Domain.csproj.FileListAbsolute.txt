@@ -1,6 +1,7 @@
 D:\University\253505\SPPR\Web_253505_Tarhonski.Domain\bin\Debug\net8.0\Web_253505_Tarhonski.Domain.deps.json
 D:\University\253505\SPPR\Web_253505_Tarhonski.Domain\bin\Debug\net8.0\Web_253505_Tarhonski.Domain.dll
 D:\University\253505\SPPR\Web_253505_Tarhonski.Domain\bin\Debug\net8.0\Web_253505_Tarhonski.Domain.pdb
+D:\University\253505\SPPR\Web_253505_Tarhonski.Domain\obj\Debug\net8.0\Web_253505_Tarhonski.Domain.csproj.AssemblyReference.cache
 D:\University\253505\SPPR\Web_253505_Tarhonski.Domain\obj\Debug\net8.0\Web_253505_Tarhonski.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\University\253505\SPPR\Web_253505_Tarhonski.Domain\obj\Debug\net8.0\Web_253505_Tarhonski.Domain.AssemblyInfoInputs.cache
 D:\University\253505\SPPR\Web_253505_Tarhonski.Domain\obj\Debug\net8.0\Web_253505_Tarhonski.Domain.AssemblyInfo.cs

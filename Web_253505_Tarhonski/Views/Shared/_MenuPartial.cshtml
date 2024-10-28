@@ -8,5 +8,8 @@
     <!-- Каталог -->
     <a class="nav-item nav-link @(controller=="Airsoft"?"active":"")" asp-controller="Airsoft" asp-action="Index">Каталог</a>
     <!-- Администрирование -->
-    <a class="nav-item nav-link" asp-area="Admin" asp-page="/Index">Администрирование</a>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <a class="nav-item nav-link" asp-area="Admin" asp-page="/Index">Администрирование</a>
+    }
 </div>

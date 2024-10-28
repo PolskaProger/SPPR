@@ -34,7 +34,7 @@ namespace Web_253505_Tarhonski.Services.CategoryService
             return Task.FromResult(response);
         }
 
-        /// <summary>
+        public Task<ResponseData<Category>> GetCategoryByIdAsync(Guid? id) => Task.FromResult(new ResponseData<Category>());
         /// Инициализация данных категорий
         /// </summary>
         private void SetupData()
@@ -43,25 +43,25 @@ namespace Web_253505_Tarhonski.Services.CategoryService
             {
                 new Category
                 {
-                    ID = 1,
+                    ID = Guid.NewGuid(),
                     Name = "Автоматы",
                     NormalizedName = "rifles",
                 },
                 new Category
                 {
-                    ID = 2,
+                    ID = Guid.NewGuid(),
                     Name = "Пистолеты",
                     NormalizedName = "pistols",
                 },
                 new Category
                 {
-                    ID = 3,
+                    ID = Guid.NewGuid(),
                     Name = "Дробовики",
                     NormalizedName = "shotguns",
                 },
                 new Category
                 {
-                    ID = 4,
+                    ID = Guid.NewGuid(),
                     Name = "Пулемёты",
                     NormalizedName = "machineguns",
                 }

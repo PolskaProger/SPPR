@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Web_253505_Tarhonski.Domain.Entities;
+using Web_253505_Tarhonski.Extentions;
 using Web_253505_Tarhonski.Services.AirsoftService;
 using Web_253505_Tarhonski.Services.CategoryService;
 using Web_253505_Tarhonski.Sevices.AirsoftService.Web_253505_Tarhonski.UI.Services.AirsoftService;
@@ -22,6 +23,7 @@ namespace Web_253505_Tarhonski.Controllers
         public async Task<IActionResult> Index(string? category, int pageNo = 1)
         {
             var airsoftResponse = await _airsoftService.GetAirsoftListAsync(category, pageNo);
+
             if (!airsoftResponse.Successfull)
             {
                 return NotFound(airsoftResponse.ErrorMessage);
@@ -37,6 +39,12 @@ namespace Web_253505_Tarhonski.Controllers
             ViewData["Categories"] = categoriesResponse.Data.Items;
             ViewData["CurrentCategory"] = categoriesResponse.Data.Items
                                           .FirstOrDefault(c => c.NormalizedName == category)?.Name ?? "Все";
+
+
+            if (!Request.IsAjaxRequest())
+            {
+                return PartialView("~/Views/Shared/_Partial_AirsoftList", airsoftResponse.Data);
+            }
 
             return View(airsoftResponse.Data);
         }

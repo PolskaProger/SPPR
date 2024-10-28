@@ -74,52 +74,47 @@ namespace Web_253505_Tarhonski.Services.AirsoftService
             {
                 new Airsoft
                 {
-                    ID = 1,
+                    ID = Guid.NewGuid(),
                     Name = "CYMA AK-47",
                     Description = "Классический автомат для страйкбола",
                     Price = 150.00m,
                     ImagePath = "AK-47.jpg",
-                    MimeType = "image/jpeg",
                     Category = _categories.Find(c => c.NormalizedName.Equals("rifles"))
                 },
                 new Airsoft
                 {
-                    ID = 2,
+                    ID = Guid.NewGuid(),
                     Name = "CYMA M4A1",
                     Description = "Штурмовая винтовка с малым весом",
                     Price = 200.00m,
                     ImagePath = "M4A1.jpg",
-                    MimeType = "image/jpeg",
                     Category = _categories.Find(c => c.NormalizedName.Equals("rifles"))
                 },
                 new Airsoft
                 {
-                    ID = 3,
+                    ID = Guid.NewGuid(),
                     Name = "CYMA Glock 18С",
                     Description = "Пистолет с автоматическим режимом",
                     Price = 100.00m,
                     ImagePath = "Glock-18C.jpg",
-                    MimeType = "image/jpeg",
                     Category = _categories.Find(c => c.NormalizedName.Equals("pistols"))
                 },
                 new Airsoft
                 {
-                    ID = 4,
+                    ID = Guid.NewGuid(),
                     Name = "CYMA M60",
                     Description = "Тяжёлый пулемёт с великолепной скорострельностью",
                     Price = 300.00m,
                     ImagePath = "m60.jpg",
-                    MimeType = "image/jpeg",
                     Category = _categories.Find(c => c.NormalizedName.Equals("machineguns"))
                 },
             new Airsoft
                 {
-                    ID = 5,
+                    ID = Guid.NewGuid(),
                     Name = "CYMA Remington M870",
                     Description = "Идеален для CQB",
                     Price = 75.00m,
                     ImagePath = "m870.jpg",
-                    MimeType = "image/jpeg",
                     Category = _categories.Find(c => c.NormalizedName.Equals("shotguns"))
                 }
                     
@@ -127,9 +122,10 @@ namespace Web_253505_Tarhonski.Services.AirsoftService
         }
 
         // Остальные методы интерфейса IAirsoftService (нужно будет реализовать позднее)
-        public Task<ResponseData<Airsoft>> GetAirsoftByIdAsync(int id) => Task.FromResult(new ResponseData<Airsoft>());
-        public Task UpdateAirsoftAsync(int id, Airsoft airsoft, IFormFile? formFile) => Task.CompletedTask;
-        public Task DeleteAirsoftAsync(int id) => Task.CompletedTask;
+        public Task<ResponseData<Airsoft>> GetAirsoftByIdAsync(Guid id) => Task.FromResult(new ResponseData<Airsoft>());
+        public Task UpdateAirsoftAsync(Guid id, Airsoft airsoft, IFormFile? formFile) => Task.CompletedTask;
+        public Task DeleteAirsoftAsync(Guid id) => Task.CompletedTask;
+        public Task<ResponseData<ListModel<Airsoft>>> GetAllAirsoftsAsync(string? categoryNormalizedName) => Task.FromResult(new ResponseData<ListModel<Airsoft>>());
         public Task<ResponseData<Airsoft>> CreateAirsoftAsync(Airsoft airsoft, IFormFile? formFile) => Task.FromResult(new ResponseData<Airsoft>());
     }
 }

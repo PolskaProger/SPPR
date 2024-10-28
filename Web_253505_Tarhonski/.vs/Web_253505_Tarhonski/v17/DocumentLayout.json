@@ -3,44 +3,247 @@
   "WorkspaceRootPath": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\controllers\\airsoftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:controllers\\airsoftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\extentions\\httpextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:extentions\\httpextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\airsoft\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\airsoft\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\_partial_airsoftlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\_partial_airsoftlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\apiservices\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\apiservices\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\helperclasses\\pagertaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:helperclasses\\pagertaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\services\\airsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\controllers\\airsoftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\airsoftservice\\iairsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\airsoftservice\\iairsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\airsoftservice\\memoryairsofrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\airsoftservice\\memoryairsofrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\apiservices\\apiairsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\apiservices\\apiairsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\authservice\\keycloakauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\authservice\\keycloakauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\tokenservice\\keycloaktokenacsessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\tokenservice\\keycloaktokenacsessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\tokenservice\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\tokenservice\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\models\\registeruserviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:models\\registeruserviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\web_253505_tarhonski.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:web_253505_tarhonski.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\authservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\authservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\services\\iairsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\extentions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:extentions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\apiservices\\apifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\apiservices\\apifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\helperclasses\\keycloakdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:helperclasses\\keycloakdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\models\\authserverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\web_253505_tarhonski.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\web_253505_tarhonski.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\fileservice\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\fileservice\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\entities\\airsoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240921080645_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240921075146_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,10 +258,6 @@
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -67,120 +266,16 @@
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\airsoftservice\\iairsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\airsoftservice\\iairsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\controllers\\airsoftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:controllers\\airsoftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\services\\airsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\services\\iairsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\areas\\admin\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:areas\\admin\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\apiservices\\apiairsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\apiservices\\apiairsoftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\airsoftservice\\memoryairsofrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\airsoftservice\\memoryairsofrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\web_253505_tarhonski.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:web_253505_tarhonski.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\sevices\\apiservices\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:sevices\\apiservices\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\controllers\\airsoftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\airsoft\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\airsoft\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\extentions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:extentions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\entities\\airsoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240912113957_AddAirsoftEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -189,31 +284,8 @@
       "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\wwwroot\\images\\glock-18c.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{633DC933-748B-412E-A1EE-72B90DE0120A}|..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.domain\\web_253505_tarhonski.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\web_253505_tarhonski.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\wwwroot\\images\\glock-18c.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:wwwroot\\images\\glock-18c.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -224,7 +296,7 @@
       "RelativeMoniker": "D:0:0:{6822117D-6E17-4D5F-9A24-862FBD8949D5}|Web_253505_Tarhonski.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\migrations\\20240912115113_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95A71D5D-0B6F-4EF0-8C7E-9CAC925BEE67}|..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj|d:\\university\\253505\\sppr\\web_253505_tarhonski.api\\migrations\\20240921083627_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -234,7 +306,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -242,293 +314,221 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Details.cshtml.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Details.cshtml.cs",
-              "RelativeToolTip": "Areas\\Admin\\Pages\\Details.cshtml.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA6wBEAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:52:03.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Edit.cshtml.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Edit.cshtml.cs",
-              "RelativeToolTip": "Areas\\Admin\\Pages\\Edit.cshtml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBMAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:52:03.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Areas\\Admin\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBMAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:52:04.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\_ViewImports.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T14:41:19.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T15:39:26.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_MenuPartial.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_MenuPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_MenuPartial.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_MenuPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_MenuPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T21:38:42.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T13:52:04.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAABMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T14:37:28.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UriData.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\UriData.cs",
-              "RelativeDocumentMoniker": "UriData.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\UriData.cs",
-              "RelativeToolTip": "UriData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:36:14.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Create.cshtml.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Create.cshtml.cs",
-              "RelativeToolTip": "Areas\\Admin\\Pages\\Create.cshtml.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADwvw8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:52:02.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Delete.cshtml.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Delete.cshtml.cs",
-              "RelativeToolTip": "Areas\\Admin\\Pages\\Delete.cshtml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBIAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:52:03.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\_ViewStart.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T16:02:34.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T14:16:05.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T15:39:45.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T14:11:08.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CartViewComponent.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\ViewComponents\\CartViewComponent.cs",
-              "RelativeDocumentMoniker": "ViewComponents\\CartViewComponent.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\ViewComponents\\CartViewComponent.cs",
-              "RelativeToolTip": "ViewComponents\\CartViewComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T21:44:15.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IAirsoftService.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\AirsoftService\\IAirsoftService.cs",
-              "RelativeDocumentMoniker": "Sevices\\AirsoftService\\IAirsoftService.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\AirsoftService\\IAirsoftService.cs",
-              "RelativeToolTip": "Sevices\\AirsoftService\\IAirsoftService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T15:07:11.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T17:42:11.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Home.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Controllers\\Home.cs",
-              "RelativeDocumentMoniker": "Controllers\\Home.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Controllers\\Home.cs",
-              "RelativeToolTip": "Controllers\\Home.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T14:44:53.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "AirsoftController.cs",
               "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Controllers\\AirsoftController.cs",
               "RelativeDocumentMoniker": "Controllers\\AirsoftController.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Controllers\\AirsoftController.cs",
-              "RelativeToolTip": "Controllers\\AirsoftController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAAJAAAA",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Controllers\\AirsoftController.cs*",
+              "RelativeToolTip": "Controllers\\AirsoftController.cs*",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T15:39:09.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 1,
+              "Title": "HttpExtentions.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Extentions\\HttpExtentions.cs",
+              "RelativeDocumentMoniker": "Extentions\\HttpExtentions.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Extentions\\HttpExtentions.cs",
+              "RelativeToolTip": "Extentions\\HttpExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:45:26.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T12:09:13.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:18:55.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_MenuPartial.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MenuPartial.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MenuPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T21:38:42.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Airsoft\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Airsoft\\Index.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Airsoft\\Index.cshtml",
+              "RelativeToolTip": "Views\\Airsoft\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T14:02:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Partial_AirsoftList.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_Partial_AirsoftList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Partial_AirsoftList.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_Partial_AirsoftList.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Partial_AirsoftList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T12:06:45.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductListModel.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Models\\ProductListModel.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Models\\ProductListModel.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Models\\ProductListModel.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Models\\ProductListModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:44:48.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiCategoryService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\ApiServices\\ApiCategoryService.cs",
+              "RelativeDocumentMoniker": "Sevices\\ApiServices\\ApiCategoryService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\ApiServices\\ApiCategoryService.cs",
+              "RelativeToolTip": "Sevices\\ApiServices\\ApiCategoryService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAMwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:39:44.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseData.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Models\\ResponseData.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Models\\ResponseData.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Models\\ResponseData.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Models\\ResponseData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:43:18.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:34:27.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagerTagHelper.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\HelperClasses\\PagerTagHelper.cs",
+              "RelativeDocumentMoniker": "HelperClasses\\PagerTagHelper.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\HelperClasses\\PagerTagHelper.cs",
+              "RelativeToolTip": "HelperClasses\\PagerTagHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:39:41.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_UserInfoPartial.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_UserInfoPartial.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_UserInfoPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T21:39:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADUAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T14:47:34.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T14:47:34.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T16:29:38.607Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "AirsoftService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\AirsoftService.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Services\\AirsoftService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\AirsoftService.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Services\\AirsoftService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADgvxcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:41.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 17,
+              "Title": "AirsoftsController.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Controllers\\AirsoftsController.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Controllers\\AirsoftsController.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Controllers\\AirsoftsController.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Controllers\\AirsoftsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:57:32.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwEwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:37:28.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Services\\CategoryService.cs",
@@ -536,155 +536,71 @@
               "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Services\\CategoryService.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwB0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:13:15.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:13:15.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 18,
               "Title": "IAirsoftService.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\IAirsoftService.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Services\\IAirsoftService.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\IAirsoftService.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Services\\IAirsoftService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAA2AAAA",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\AirsoftService\\IAirsoftService.cs",
+              "RelativeDocumentMoniker": "Sevices\\AirsoftService\\IAirsoftService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\AirsoftService\\IAirsoftService.cs",
+              "RelativeToolTip": "Sevices\\AirsoftService\\IAirsoftService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAEwBUAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:12:11.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T15:07:11.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AirsoftService.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\AirsoftService.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Services\\AirsoftService.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\AirsoftService.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Services\\AirsoftService.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAswGcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:12:41.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T11:01:24.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Create.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Pages\\Create.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T13:52:02.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Delete.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Delete.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Pages\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T13:52:03.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Details.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Details.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Details.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Pages\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T13:52:03.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Edit.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Pages\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T13:52:02.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ApiAirsoftService.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\ApiServices\\ApiAirsoftService.cs",
-              "RelativeDocumentMoniker": "Sevices\\ApiServices\\ApiAirsoftService.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\ApiServices\\ApiAirsoftService.cs",
-              "RelativeToolTip": "Sevices\\ApiServices\\ApiAirsoftService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:40:39.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 19,
               "Title": "MemoryAirsofrService.cs",
               "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\AirsoftService\\MemoryAirsofrService.cs",
               "RelativeDocumentMoniker": "Sevices\\AirsoftService\\MemoryAirsofrService.cs",
               "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\AirsoftService\\MemoryAirsofrService.cs",
               "RelativeToolTip": "Sevices\\AirsoftService\\MemoryAirsofrService.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAgwAoAAAABAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwH8AAACXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T11:57:38.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T11:57:38.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\CategoryService\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Sevices\\CategoryService\\ICategoryService.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\CategoryService\\ICategoryService.cs",
-              "RelativeToolTip": "Sevices\\CategoryService\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "DocumentIndex": 20,
+              "Title": "ApiAirsoftService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\ApiServices\\ApiAirsoftService.cs",
+              "RelativeDocumentMoniker": "Sevices\\ApiServices\\ApiAirsoftService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\ApiServices\\ApiAirsoftService.cs",
+              "RelativeToolTip": "Sevices\\ApiServices\\ApiAirsoftService.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAmwJoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T15:19:57.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:40:39.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 24,
+              "Title": "KeycloakAuthService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\AuthService\\KeycloakAuthService.cs",
+              "RelativeDocumentMoniker": "Sevices\\AuthService\\KeycloakAuthService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\AuthService\\KeycloakAuthService.cs",
+              "RelativeToolTip": "Sevices\\AuthService\\KeycloakAuthService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:38:25.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Program.cs",
               "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Program.cs",
               "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Program.cs",
               "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T19:14:37.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T19:14:37.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 29,
               "Title": "Web_253505_Tarhonski.csproj",
               "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Web_253505_Tarhonski.csproj",
               "RelativeDocumentMoniker": "Web_253505_Tarhonski.csproj",
@@ -692,277 +608,155 @@
               "RelativeToolTip": "Web_253505_Tarhonski.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T21:43:19.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T21:43:19.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-04T14:37:47.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ApiCategoryService.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\ApiServices\\ApiCategoryService.cs",
-              "RelativeDocumentMoniker": "Sevices\\ApiServices\\ApiCategoryService.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\ApiServices\\ApiCategoryService.cs",
-              "RelativeToolTip": "Sevices\\ApiServices\\ApiCategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:39:44.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "MemoryCategoryService.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\CategoryService\\MemoryCategoryService.cs",
-              "RelativeDocumentMoniker": "Sevices\\CategoryService\\MemoryCategoryService.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\CategoryService\\MemoryCategoryService.cs",
-              "RelativeToolTip": "Sevices\\CategoryService\\MemoryCategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T15:20:21.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "AirsoftsController.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Controllers\\AirsoftsController.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Controllers\\AirsoftsController.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Controllers\\AirsoftsController.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Controllers\\AirsoftsController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAxwEYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:57:32.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ProductListModel.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Models\\ProductListModel.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Models\\ProductListModel.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Models\\ProductListModel.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Models\\ProductListModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T14:44:48.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T19:27:01.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Data\\DbInitializer.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGgAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:39:26.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\appsettings.json",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\appsettings.json",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-08T19:14:47.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Airsoft\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Airsoft\\Index.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Airsoft\\Index.cshtml",
-              "RelativeToolTip": "Views\\Airsoft\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAtAAAA",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T14:02:50.708Z"
+              "WhenOpened": "2024-09-13T13:52:04.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "HostingExtensions.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Extentions\\HostingExtensions.cs",
-              "RelativeDocumentMoniker": "Extentions\\HostingExtensions.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Extentions\\HostingExtensions.cs",
-              "RelativeToolTip": "Extentions\\HostingExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "DocumentIndex": 26,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\TokenService\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Sevices\\TokenService\\ITokenService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\TokenService\\ITokenService.cs",
+              "RelativeToolTip": "Sevices\\TokenService\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T15:04:18.45Z"
+              "WhenOpened": "2024-10-07T19:42:33.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "20240912115113_InitialCreate.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240912115113_InitialCreate.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Migrations\\20240912115113_InitialCreate.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240912115113_InitialCreate.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Migrations\\20240912115113_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T11:51:13.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ResponseData.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Models\\ResponseData.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Models\\ResponseData.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Models\\ResponseData.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Models\\ResponseData.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T14:43:18.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Airsoft.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Entities\\Airsoft.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Entities\\Airsoft.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Entities\\Airsoft.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Entities\\Airsoft.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAswBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:44:38.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Entities\\Category.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Entities\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T14:34:27.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "20240912113957_AddAirsoftEntity.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240912113957_AddAirsoftEntity.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Migrations\\20240912113957_AddAirsoftEntity.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240912113957_AddAirsoftEntity.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Migrations\\20240912113957_AddAirsoftEntity.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T11:39:58.072Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Web_253505_Tarhonski.Domain.csproj",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-05T14:42:34.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Glock-18C.jpg",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Glock-18C.jpg",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Glock-18C.jpg",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Glock-18C.jpg",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Glock-18C.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-09-09T16:48:36.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:59:11.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Services\\ICategoryService.cs",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\ICategoryService.cs",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Services\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:12:27.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Web_253505_Tarhonski.API.csproj",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj",
-              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj",
-              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-08T19:14:57.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 23,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Properties\\launchSettings.json",
               "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-08T19:15:01.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Glock-18C.jpg",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\wwwroot\\Images\\Glock-18C.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\Images\\Glock-18C.jpg",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\wwwroot\\Images\\Glock-18C.jpg",
-              "RelativeToolTip": "wwwroot\\Images\\Glock-18C.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-09-06T14:38:23.775Z"
+              "DocumentIndex": 25,
+              "Title": "KeycloakTokenAcsessor.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\TokenService\\KeycloakTokenAcsessor.cs",
+              "RelativeDocumentMoniker": "Sevices\\TokenService\\KeycloakTokenAcsessor.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\TokenService\\KeycloakTokenAcsessor.cs",
+              "RelativeToolTip": "Sevices\\TokenService\\KeycloakTokenAcsessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:43:49.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 30,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\AuthService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Sevices\\AuthService\\IAuthService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\AuthService\\IAuthService.cs",
+              "RelativeToolTip": "Sevices\\AuthService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:16:28.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\appsettings.json",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\appsettings.json",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T19:14:47.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterUserViewModels.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Models\\RegisterUserViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterUserViewModels.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Models\\RegisterUserViewModels.cs",
+              "RelativeToolTip": "Models\\RegisterUserViewModels.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:17:41.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Controllers\\FilesController.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Controllers\\FilesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:18:12.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAirsoftService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\IAirsoftService.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Services\\IAirsoftService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\IAirsoftService.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Services\\IAirsoftService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:11.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T20:35:11.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HostingExtensions.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Extentions\\HostingExtensions.cs",
+              "RelativeDocumentMoniker": "Extentions\\HostingExtensions.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Extentions\\HostingExtensions.cs",
+              "RelativeToolTip": "Extentions\\HostingExtensions.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:04:18.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T15:39:26.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\Components\\Cart\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\Cart\\Default.cshtml",
@@ -974,19 +768,494 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "_UserInfoPartial.cshtml",
-              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_UserInfoPartial.cshtml",
-              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_UserInfoPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Create.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Pages\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T21:39:24.069Z"
+              "WhenOpened": "2024-09-13T13:52:02.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "KeycloakData.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\HelperClasses\\KeycloakData.cs",
+              "RelativeDocumentMoniker": "HelperClasses\\KeycloakData.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\HelperClasses\\KeycloakData.cs",
+              "RelativeToolTip": "HelperClasses\\KeycloakData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:49:26.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthServerData.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Models\\AuthServerData.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Models\\AuthServerData.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Models\\AuthServerData.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Models\\AuthServerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:16:58.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApiFileService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\ApiServices\\ApiFileService.cs",
+              "RelativeDocumentMoniker": "Sevices\\ApiServices\\ApiFileService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\ApiServices\\ApiFileService.cs",
+              "RelativeToolTip": "Sevices\\ApiServices\\ApiFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:29:12.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T14:37:47.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\libman.json",
+              "RelativeDocumentMoniker": "libman.json",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\libman.json",
+              "RelativeToolTip": "libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T13:46:06.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Web_253505_Tarhonski.API.csproj",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Web_253505_Tarhonski.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T19:14:57.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:27:01.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Web_253505_Tarhonski.Domain.csproj",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Web_253505_Tarhonski.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T14:42:34.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Services\\ICategoryService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:27.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Areas\\Admin\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:04.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Areas\\Admin\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:03.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\_ViewImports.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T14:41:19.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MemoryCategoryService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\CategoryService\\MemoryCategoryService.cs",
+              "RelativeDocumentMoniker": "Sevices\\CategoryService\\MemoryCategoryService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\CategoryService\\MemoryCategoryService.cs",
+              "RelativeToolTip": "Sevices\\CategoryService\\MemoryCategoryService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:20:21.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Edit.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Pages\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:52:02.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Create.cshtml.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "Areas\\Admin\\Pages\\Create.cshtml.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAADwv0gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:02.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Details.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Pages\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAACBjwCoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:52:03.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Details.cshtml.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "Areas\\Admin\\Pages\\Details.cshtml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAvwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:03.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\FileService\\IFileService.cs",
+              "RelativeDocumentMoniker": "Sevices\\FileService\\IFileService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\FileService\\IFileService.cs",
+              "RelativeToolTip": "Sevices\\FileService\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:28:31.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Sevices\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Sevices\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "Sevices\\CategoryService\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:19:57.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Areas\\Admin\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:03.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 58,
+              "Title": "Airsoft.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Entities\\Airsoft.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.Domain\\Entities\\Airsoft.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.Domain\\Entities\\Airsoft.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.Domain\\Entities\\Airsoft.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:44:38.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20240921083627_InitialCreate.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240921083627_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Migrations\\20240921083627_InitialCreate.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240921083627_InitialCreate.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Migrations\\20240921083627_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:36:27.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAQwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:39:26.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240921080645_InitialCreate.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240921080645_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Migrations\\20240921080645_InitialCreate.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240921080645_InitialCreate.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Migrations\\20240921080645_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:06:46.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240921075146_InitialCreate.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240921075146_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Migrations\\20240921075146_InitialCreate.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240921075146_InitialCreate.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Migrations\\20240921075146_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:51:47.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAACBjwBoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:59:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Controllers\\Home.cs",
+              "RelativeDocumentMoniker": "Controllers\\Home.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Controllers\\Home.cs",
+              "RelativeToolTip": "Controllers\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:44:53.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Pages\\Delete.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Pages\\Delete.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAADgvyYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:52:03.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UriData.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\UriData.cs",
+              "RelativeDocumentMoniker": "UriData.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\UriData.cs",
+              "RelativeToolTip": "UriData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:36:14.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\_ViewStart.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T16:02:34.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T14:16:05.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T15:39:45.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T14:11:08.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:44:15.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T17:42:11.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T16:29:38.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:01:24.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240912113957_AddAirsoftEntity.cs",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240912113957_AddAirsoftEntity.cs",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\Migrations\\20240912113957_AddAirsoftEntity.cs",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\Migrations\\20240912113957_AddAirsoftEntity.cs",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\Migrations\\20240912113957_AddAirsoftEntity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:39:58.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Glock-18C.jpg",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Glock-18C.jpg",
+              "RelativeDocumentMoniker": "..\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Glock-18C.jpg",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Glock-18C.jpg",
+              "RelativeToolTip": "..\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Glock-18C.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-09T16:48:36.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Glock-18C.jpg",
+              "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\wwwroot\\Images\\Glock-18C.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Images\\Glock-18C.jpg",
+              "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\wwwroot\\Images\\Glock-18C.jpg",
+              "RelativeToolTip": "wwwroot\\Images\\Glock-18C.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-06T14:38:23.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
               "Title": "site.css",
               "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -998,13 +1267,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 78,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAIAAAAAAAAAAABRwBsAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-04T14:38:11.989Z"
             }

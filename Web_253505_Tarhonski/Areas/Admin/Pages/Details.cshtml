@@ -13,35 +13,37 @@
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Airsoft.Name)
+            Название 
         </dt>
         <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Airsoft.Name)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Airsoft.Description)
+            Описание товара
         </dt>
         <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Airsoft.Description)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Airsoft.Price)
+            Цена
         </dt>
         <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Airsoft.Price)
         </dd>
         <dt class="col-sm-2">
+            Категория
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Category.Name)
+        </dd>
+        <dd class="col-sm-2">
             @Html.DisplayNameFor(model => model.Airsoft.ImagePath)
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Airsoft.ImagePath)
         </dd>
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Airsoft.MimeType)
+        <dt class="col-sm-10">
+            <img src="@Model.Airsoft.ImagePath" class="img-thumbnail" style="max-width: 100px;" />
+
         </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Airsoft.MimeType)
-        </dd>
+        
     </dl>
 </div>
 <div>

@@ -1,8 +1,20 @@
 {
   "Files": [
     {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\4k11d1qh.jpg",
+      "PackagePath": "staticwebassets\\Images\\4k11d1qh.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\4ungaox1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\4ungaox1.jpeg"
+    },
+    {
       "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\AK-47.jpg",
       "PackagePath": "staticwebassets\\Images\\AK-47.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\AUG.jpeg",
+      "PackagePath": "staticwebassets\\Images\\AUG.jpeg"
     },
     {
       "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\G36.jpg",
@@ -13,12 +25,52 @@
       "PackagePath": "staticwebassets\\Images\\Glock-18C.jpg"
     },
     {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Icon.png",
+      "PackagePath": "staticwebassets\\Images\\Icon.png"
+    },
+    {
       "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\M4A1.jpg",
       "PackagePath": "staticwebassets\\Images\\M4A1.jpg"
     },
     {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\PM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\PM.jpeg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\Revolver.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Revolver.jpeg"
+    },
+    {
       "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\VSS.jpg",
       "PackagePath": "staticwebassets\\Images\\VSS.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\afl2xytv.jfif",
+      "PackagePath": "staticwebassets\\Images\\afl2xytv.jfif"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\ajtf2b51.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ajtf2b51.jpeg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\datzjwit.jpg",
+      "PackagePath": "staticwebassets\\Images\\datzjwit.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\fcgw3nzg.jfif",
+      "PackagePath": "staticwebassets\\Images\\fcgw3nzg.jfif"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\gecj2sp3.jpg",
+      "PackagePath": "staticwebassets\\Images\\gecj2sp3.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\images.jfif",
+      "PackagePath": "staticwebassets\\Images\\images.jfif"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\m14.jpg",
+      "PackagePath": "staticwebassets\\Images\\m14.jpg"
     },
     {
       "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\m60.jpg",
@@ -27,6 +79,34 @@
     {
       "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\m870.jpg",
       "PackagePath": "staticwebassets\\Images\\m870.jpg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\mg3.jfif",
+      "PackagePath": "staticwebassets\\Images\\mg3.jfif"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\minigun.jpeg",
+      "PackagePath": "staticwebassets\\Images\\minigun.jpeg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\nwdmahop.jpeg",
+      "PackagePath": "staticwebassets\\Images\\nwdmahop.jpeg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\obrez.jfif",
+      "PackagePath": "staticwebassets\\Images\\obrez.jfif"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\ofhyrfk3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ofhyrfk3.jpeg"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\q0ijyssr.jfif",
+      "PackagePath": "staticwebassets\\Images\\q0ijyssr.jfif"
+    },
+    {
+      "Id": "D:\\University\\253505\\SPPR\\Web_253505_Tarhonski.API\\wwwroot\\Images\\ytnzknb0.jfif",
+      "PackagePath": "staticwebassets\\Images\\ytnzknb0.jfif"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_253505_Tarhonski.API.Microsoft.AspNetCore.StaticWebAssets.props",
